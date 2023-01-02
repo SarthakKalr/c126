@@ -1,0 +1,13 @@
+.btn-info{
+    width: 100%;
+    align-items: center;
+    height: auto;
+    font-weight: bolder;
+    font-family: comic;
+    color: darkblue;
+}
+body{
+    font-variant: var(100%);
+    font-weight: bolder;
+    background-image: "download.jpeg"
+    }
